@@ -4,15 +4,15 @@ the purpose of this election audit analysis is to learn how data type is stored 
 
 # Election _Audit Result
 
-  369,711 total votes cast in this congressional election.
+  . 369,711 total votes cast in this congressional election.
   
-  number of votes ad perecentage of votes for each county:Jeffereson:38,855(10.5%),Denver:306.055(82.8%) and Arapahoe:24,801(6.7%)
+  . Number of votes ad perecentage of votes for each county:Jeffereson:38,855(10.5%),Denver:306.055(82.8%) and Arapahoe:24,801(6.7%)
   
-  Denver(306,055) has the laregest county turnout from other counties
+  . Denver(306,055) has the laregest county turnout from other counties
   
-  number of votes ad perecentage of votes for each candidate:Charles Casper Stockham:85,213(23.0%),Diana DeGette:272,892(73.8%) and Raymon Anthony Doane:11,606(3.1%)
+  . Number of votes ad perecentage of votes for each candidate:Charles Casper Stockham:85,213(23.0%),Diana DeGette:272,892(73.8%) and Raymon Anthony Doane:11,606(3.1%)
   
-  Candidate Diana DeGette won the election with Winning Vote count:272.892 and percentage of total votes:73.8%
+  . Candidate Diana DeGette won the election with Winning Vote count:272.892 and percentage of total votes:73.8%
   
 #Election-Audit Summary:
 
